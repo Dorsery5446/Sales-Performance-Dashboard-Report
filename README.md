@@ -3,6 +3,8 @@ This is an Explorative Data Analysis Report (EDA) of a Company's Sales Database 
 
 This is the Power Bi Visualization report of the sales activities of Millenium Electronics, a Virtual Company for the year, 2011 to 2014. This is an Explorative Data Analysis Report (EDA) of a Company in Nigeria.
 
+![Sales Performance EDA Dashboard screenshot](https://github.com/Dorsery5446/Sales-Performance-Dashboard-Report/blob/main/Sales%20Performance%20Dashboard.PNG)
+
 ## Data Use
 **Dataset:** Sales Database
 
